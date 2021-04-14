@@ -32,7 +32,7 @@
   <name>jclouds Camel Notifier</name>
 
   <properties>
-    <camel.version>2.9.0</camel.version>
+    <camel.version>2.10.1</camel.version>
     <jclouds.version>1.6.0</jclouds.version>
   </properties>
 
