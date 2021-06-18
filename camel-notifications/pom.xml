@@ -32,7 +32,7 @@
   <name>jclouds Camel Notifier</name>
 
   <properties>
-    <camel.version>2.9.0</camel.version>
+    <camel.version>2.13.4</camel.version>
     <jclouds.version>1.6.0</jclouds.version>
   </properties>
 
@@ -97,7 +97,7 @@
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.0.0</version>
+      <version>1.2.0</version>
     </dependency>
   </dependencies>
 
