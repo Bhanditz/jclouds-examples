@@ -27,7 +27,7 @@
   <description>jclouds compute example that adds a node to a group, then executes "echo hello" on all nodes</description>
 
   <properties>
-    <jclouds.version>1.8.0</jclouds.version>
+    <jclouds.version>2.3.0</jclouds.version>
   </properties>
 
   <dependencies>
@@ -101,7 +101,7 @@
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.0.9</version>
+      <version>1.2.7</version>
     </dependency>
   </dependencies>
   <build>
