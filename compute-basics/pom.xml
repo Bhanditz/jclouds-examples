@@ -27,7 +27,7 @@
   <description>jclouds compute example that adds a node to a group, then executes "echo hello" on all nodes</description>
 
   <properties>
-    <jclouds.version>1.8.0</jclouds.version>
+    <jclouds.version>1.9.3</jclouds.version>
   </properties>
 
   <dependencies>
